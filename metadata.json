@@ -1,0 +1,5 @@
+{
+  "name": "Berçário Estelar",
+  "description": "Um simulador 3D interativo de formação estelar onde nuvens de hidrogênio colapsam em estrelas, buracos negros e sistemas planetários, demonstrando a conservação do momento angular e evolução estelar.",
+  "requestFramePermissions": []
+}
